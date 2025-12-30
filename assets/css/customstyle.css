@@ -1,0 +1,15 @@
+.table-responsive {
+    height: 580px;
+    width: 100%;
+    overflow-y: auto;
+}
+
+table {
+    width: 100%;
+    /* height: 200px; */
+}
+
+td {
+    padding: 24px;
+    /* background: #eee; */
+}
