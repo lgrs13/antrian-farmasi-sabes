@@ -49,10 +49,14 @@
             </div>
 
             <div class="navbar-header d-flex justify-content-center align-items-center" style="margin-left: 4%;">
-                <div class="navbar-brand marquee-container" style="margin-top: 4%;" href="">
+                <!-- <div class="navbar-brand marquee-container" style="margin-top: 4%;" href="">
                     <div class="marquee">Silakan scan barcode di meja petugas untuk cek status obat Anda <span style="color: #f06e6eff;">| Waktu tunggu Obat Racik 60 menit | Waktu tunggu obat Non racik 30 menit</span></div>
                 </div>
-                <img src="<?= base_url(); ?>assets/images/rsud/barcode_header.jpg" style="margin: 7px 5px; width: 80px">
+                <img src="<?= base_url(); ?>assets/images/rsud/barcode_header.jpg" style="margin: 7px 5px; width: 80px"> -->
+                <div class="navbar-brand marquee-container" style="margin-top: 4%;" href="">
+                    <div class="marquee"> <span style="color: #f06e6eff;">| Waktu tunggu Obat Racik 60 menit | Waktu tunggu obat Non racik 30 menit</span></div>
+                </div>
+                <!-- <img src="<?= base_url(); ?>assets/images/rsud/barcode_header.jpg" style="margin: 7px 5px; width: 80px"> -->
             </div>
 
             <div class="navbar-header pull-right">

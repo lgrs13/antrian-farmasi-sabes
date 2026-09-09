@@ -26,8 +26,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 // $protocol = stripos($_SERVER['SERVER_PROTOCOL'], 'https') === 0 ? "https://" : "http://";
 // $root = $protocol.$_SERVER['HTTP_HOST'];
 // $root .= str_replace(basename($_SERVER['SCRIPT_NAME']), "", $_SERVER['SCRIPT_NAME']);
-$config['base_url'] = 'http://192.168.14.13/antrian-farmasi';
-// $config['base_url'] = 'http://192.168.100.80:8016/';
+// $config['base_url'] = 'http://192.168.14.13/antrian-farmasi';
+$config['base_url'] = 'http://10.10.171.9:8011/';
 // $config['base_url'] = 'https://rsudtanahabang.jakarta.go.id/antrian-farmasi/';
 
 /*
